@@ -744,6 +744,9 @@
     font-size: 4rem;
     font-family: "Kanit", serif;
   }
+  #con5 .textBox h4 {
+    text-align: center;
+  }
   #con5 .textBox ul {
     margin-left: 40px;
     margin-top: 50px;
